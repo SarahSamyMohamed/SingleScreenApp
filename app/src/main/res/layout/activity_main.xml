@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/bibliotheca_alexandrina" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="@string/business_name"
+            android:textAllCaps="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="32sp" />
+
+        <TextView
+            style="@style/infoStyle"
+            android:drawableStart="@drawable/ic_place_black_24dp"
+            android:text="@string/location" />
+
+        <TextView
+            style="@style/infoStyle"
+            android:drawableStart="@drawable/ic_public_black_24dp"
+            android:text="@string/website" />
+
+        <TextView
+            style="@style/infoStyle"
+            android:drawableStart="@drawable/ic_call_black_24dp"
+            android:text="@string/telephone" />
+
+        <TextView
+            style="@style/infoStyle"
+            android:drawableStart="@drawable/ic_access_time_black_24dp"
+            android:text="@string/open_hours" />
+    </LinearLayout>
+</ScrollView>

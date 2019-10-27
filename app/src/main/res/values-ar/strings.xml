@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مكتبة الإسكندرية</string>
+    <string name="business_name">مكتبة الإسكندرية</string>
+    <string name="location">الأزاريتة والشاطبي، قسم باب شرقي، الإسكندرية 21526</string>
+    <string name="open_hours">كل يوم من الساعة 10 صباحًا حتى الساعة 7 مساءً</string>
+</resources>

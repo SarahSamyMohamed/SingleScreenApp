@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bibliotheca Alexandrina</string>
+    <string name="business_name">bibliotheca alexandrina</string>
+    <string name="location">Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi, Alexandria Governorate 21526</string>
+    <string name="website" translatable="false">bibalex.org</string>
+    <string name="telephone" translatable="false">03 4839999</string>
+    <string name="open_hours">every day from 10AM to 7PM</string>
+</resources>
